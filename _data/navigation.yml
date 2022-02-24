@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Home"
+    url: https://zarnackgroup.github.io/
+  - title: "Projects"
+    url: https://zarnackgroup.github.io/projects/
+  - title: "People"
+    url: https://zarnackgroup.github.io/people/
+  - title: "Tools"
+    url: https://zarnackgroup.github.io/tools/
+  - title: "Teaching"
+    url: https://zarnackgroup.github.io/teaching/
+  - title: "Publications"
+    url: https://zarnackgroup.github.io/publications/
