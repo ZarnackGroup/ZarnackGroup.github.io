@@ -4,4 +4,18 @@ author_profile: false
 title: Computational RNA Biology
 
 ---
-Coming soon!
+
+
+# Learning the Molecular Code of RNA Regulation
+
+## Decode the cis-regulatory landscape of alternative splicing decisions 
+We recently established a high-throughput screening approach to decode the cis-regulatory landscape of alternative splicing decisions in collaboration with Dr. Julian König and Dr. Stefan Legewie at IMB in Mainz. As a prototype example, we dissected the cancer-relevant alternative exon 11 in the proto-oncogene MST1R (RON) encoding for a receptor tyrosine kinase (Braun et al., 2018). Skipping of RON exon 11 results in the pathological isoform RON∆165 that promotes tumour invasiveness and is frequently upregulated in tumours. Mathematical modeling of splicing kinetics in the Legewie group enabled us to identify more than 1,000 mutations affecting RON exon 11 skipping. Importantly, the measured effects correlated with RON alternative splicing in cancer patients bearing the same mutations. Moreover, we highlighted the RNA-binding protein heterogeneous nuclear ribonucleoprotein H (HNRNPH) as a key regulator of RON splicing in healthy tissues and cancer. Our results offer insights into splicing regulation and the hidden layer of splicing-effective mutations in cancer.
+
+!()[https://github.com/ZarnackGroup/ZarnackGroup.github.io/blob/master/assets/images/Figure2_RON_mutagenesis.png]
+
+
+## Alternative polyadenylation and nuclear export 
+In collaboration with JunProf. Müller-McNicoll at GU Frankfurt, we investigate how SR proteins connect pre-mRNA splicing with alternative polyadenylation and nuclear export of specific mRNA isoforms. In this project within the DFG Collaborative Research Consortium SFB902 “Molecular Principles of RNA-based Regulation”, we discovered that SRSF3 and SRSF7 regulate alternative polyadenlyation in opposing directions, thereby changing the mRNA’s fate from export and translation in the cytoplasm to retention in the nucleus (Müller-McNicoll et al., 2016). In a parallel line of research, we reported that SRSF5 effects an export switch of its target mRNAs during neuronal differentiation through a reversible inhibition of nucleo-cytoplasmic shuttling (Botti et al., 2017).
+
+## mRNA transport and local translation 
+Intracellular mRNA transport and local translation are evolutionarily conserved concepts that play essential roles in cellular compartmentalisation from yeast to human. In collaboration with several groups of the DFG Research Unit FOR2333 “Macromolecular complexes in mRNA localization", we employ our expertise on protein-RNA interactions to study the molecular determinants of RBP binding in mRNA translocation. By studying similar processes in different model organisms, we decipher the global rules of zipcode recognition and pinpoint analogies as well as differences across evolution. For instance, we recently described how the RNA-binding protein Rrm4 recognises its target mRNAs in infectious hyphae of the corn pathogen Ustilago maydis (Olgeiser et al, 2019). In budding yeast, we further study the specific targeting of mRNAs that enables a spatio-temporal protein expression in the bud tip. The most prominent example is the targeted ASH1 mRNA whose protein product regulates mating-type switching in the daughter cells. Recognition by the mRNA transport machinery requires zipcodes that are encoded in the secondary structure of the RNA molecules.
