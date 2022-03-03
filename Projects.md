@@ -7,8 +7,8 @@ title: Computational RNA Biology
 
 
 - [Learning the Molecular Code of RNA Regulation](https://zarnackgroup.github.io/Projects/#learning-the-molecular-code-of-rna-regulation)
-- [Regulatory Mechanisms in Human (Patho)Physiology](https://zarnackgroup.github.io/Projects/#learning-the-molecular-code-of-rna-regulation)
-- [Computational Toolbox](https://zarnackgroup.github.io/Projects/#learning-the-molecular-code-of-rna-regulation)
+- [Regulatory Mechanisms in Human (Patho)Physiology](https://zarnackgroup.github.io/Projects/#regulatory-mechanisms-in-human-pathophysiology)
+- [Computational Toolbox](https://zarnackgroup.github.io/Projects/#computational-toolbox)
 
 
 # Learning the Molecular Code of RNA Regulation
