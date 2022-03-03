@@ -6,7 +6,7 @@ image: /assets/images/Figure2_RON_mutagenesis.png
 
 ---
 
-![](/assets/images/Figure2_RON_mutagenesis.png)
+
 
 RNA-binding proteins (RBPs) are critical players in the posttranscriptional control of gene expression. Their functional impact ranges from the alternative splicing and polyadenylation of pre-mRNAs in the nucleus to the subcellular localisation and translation of mRNAs in the cytoplasm. Numerous diseases are characterised by dysregulated RBPs and massively altered transcriptome patterns, particularly prominent in neurodegeneration and cancer. In the era of functional genomics and high-throughput sequencing, we are now able to address these processes at an unprecedented resolution and scale.
 
