@@ -3,12 +3,12 @@ main:
   - title: "Home"
     url: https://zarnackgroup.github.io/
   - title: "Projects"
-    url: https://zarnackgroup.github.io/projects/
+    url: https://zarnackgroup.github.io/Projects/
   - title: "People"
-    url: https://zarnackgroup.github.io/people/
+    url: https://zarnackgroup.github.io/People/
   - title: "Tools"
-    url: https://zarnackgroup.github.io/tools/
+    url: https://zarnackgroup.github.io/Tools/
   - title: "Teaching"
-    url: https://zarnackgroup.github.io/teaching/
+    url: https://zarnackgroup.github.io/Teaching/
   - title: "Publications"
-    url: https://zarnackgroup.github.io/publications/
+    url: https://zarnackgroup.github.io/Publications/
