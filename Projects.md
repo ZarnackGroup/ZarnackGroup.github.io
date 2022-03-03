@@ -11,7 +11,7 @@ title: Computational RNA Biology
 ## Decode the cis-regulatory landscape of alternative splicing decisions 
 We recently established a high-throughput screening approach to decode the cis-regulatory landscape of alternative splicing decisions in collaboration with Dr. Julian König and Dr. Stefan Legewie at IMB in Mainz. As a prototype example, we dissected the cancer-relevant alternative exon 11 in the proto-oncogene MST1R (RON) encoding for a receptor tyrosine kinase (Braun et al., 2018). Skipping of RON exon 11 results in the pathological isoform RON∆165 that promotes tumour invasiveness and is frequently upregulated in tumours. Mathematical modeling of splicing kinetics in the Legewie group enabled us to identify more than 1,000 mutations affecting RON exon 11 skipping. Importantly, the measured effects correlated with RON alternative splicing in cancer patients bearing the same mutations. Moreover, we highlighted the RNA-binding protein heterogeneous nuclear ribonucleoprotein H (HNRNPH) as a key regulator of RON splicing in healthy tissues and cancer. Our results offer insights into splicing regulation and the hidden layer of splicing-effective mutations in cancer.
 
-!()[/assets/images/Figure2_RON_mutagenesis.png]
+![]("/assets/images/Figure2_RON_mutagenesis.png")
 
 
 ## Alternative polyadenylation and nuclear export 
