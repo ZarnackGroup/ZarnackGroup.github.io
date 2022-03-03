@@ -1,6 +1,6 @@
 ---
-layout: home
+layout: collection
 author_profile: false
-title: Publications
+title: Tools
 ---
  coming soon
