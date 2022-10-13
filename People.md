@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: collection
 author_profile: false
 title: Who are we?
 ---
