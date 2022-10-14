@@ -20,7 +20,7 @@ title: Who is the Zarnack Group?
 			<p>kathi.zarnack(at)bmls.de</p>
 		</div>
 		<div class="column">
-			<img src="/assets/images/people/dummy.png" alt="Dr. Katharina Zarnack" width="300px" height="auto">
+			<img src="/assets/images/people/dummy.png" alt="Dr. Katharina Zarnack" width="200px" height="auto">
 		</div>
 	</div>
 </div>
@@ -30,16 +30,16 @@ title: Who is the Zarnack Group?
 	<h2>Post-Docs</h2>
 	<hr>
 	<!-- Dr. Mario Keller -->
-	<div>
+	<div class="row">
 		<h4>Dr. Mario Keller</h4>
-		<img src="/assets/images/people/dummy.png" alt="Dr. Mario Keller" width="300px" height="auto"> 
+		<img src="/assets/images/people/dummy.png" alt="Dr. Mario Keller" width="200px" height="auto"> 
 		<p>mario.keller(at)bmls.de</p>
 	</div>
 	
 	<!-- Dr. Mirko Brüggemann -->
-	<div>
+	<div class="row">
 		<h4>Dr. Mirko Brüggemann</h4>
-		<img src="/assets/images/people/dummy.png" alt="Dr. Mirko Brüggemann" width="300px" height="auto"> 
+		<img src="/assets/images/people/dummy.png" alt="Dr. Mirko Brüggemann" width="200px" height="auto"> 
 		<p>mirko.brueggemann(at)bmls.de</p>
 	</div>
 </div>
@@ -49,23 +49,23 @@ title: Who is the Zarnack Group?
 	<h2>PhD students</h2>
 	<hr>
 	<!-- Andre Brezski -->
-	<div>
+	<div class="row">
 		<h4>Andre Brezski</h4>
-		<img src="/assets/images/people/dummy.png" alt="Andre Brezski" width="300px" height="auto"> 
+		<img src="/assets/images/people/dummy.png" alt="Andre Brezski" width="200px" height="auto"> 
 		<p>brezski(at)em.uni-frankfurt.de</p>
 	</div>
 
 	<!-- Melina Klostermann -->
-	<div>
+	<div class="row">
 		<h4>Melina Klostermann</h4>
-		<img src="/assets/images/people/dummy.png" alt="Melina Klostermann" width="300px" height="auto"> 
+		<img src="/assets/images/people/dummy.png" alt="Melina Klostermann" width="200px" height="auto"> 
 		<p>m.klostermann(at)em.uni-frankfurt.de</p>
 	</div>
 
 	<!-- You Zhou -->
-	<div>
+	<div class="row">
 		<h4>You Zhou</h4>
-		<img src="/assets/images/people/dummy.png" alt="You Zhou" width="300px" height="auto"> 
+		<img src="/assets/images/people/dummy.png" alt="You Zhou" width="200px" height="auto"> 
 		<p>you.zhou(at)bmls.de</p>
 	</div>
 </div>
@@ -75,9 +75,9 @@ title: Who is the Zarnack Group?
 	<h2>Master students</h2>
 	<hr>
 	<!-- Dominik Stroh -->
-	<div>
+	<div class="row">
 		<h4>Dominik Stroh</h4>
-		<img src="/assets/images/people/dummy.png" alt="Dominik Stroh" width="300px" height="auto"> 
+		<img src="/assets/images/people/dummy.png" alt="Dominik Stroh" width="200px" height="auto"> 
 	</div>
 </div>
 
@@ -86,21 +86,21 @@ title: Who is the Zarnack Group?
 	<h2>Research assistants</h2>
 	<hr>
 	<!-- Annika Ladwig -->
-	<div>
+	<div class="row">
 		<h4>Annika Ladwig</h4>
-		<img src="/assets/images/people/dummy.png" alt="Annika Ladwig" width="300px" height="auto"> 
+		<img src="/assets/images/people/dummy.png" alt="Annika Ladwig" width="200px" height="auto"> 
 	</div>
 	
 	<!-- Cem -->
-	<div>
+	<div class="row">
 		<h4>Cem</h4>
-		<img src="/assets/images/people/dummy.png" alt="Cem" width="300px" height="auto"> 
+		<img src="/assets/images/people/dummy.png" alt="Cem" width="200px" height="auto"> 
 	</div>
 	
 	<!-- Jonas Busam -->
-	<div>
+	<div class="row">
 		<h4>Jonas Busam</h4>
-		<img src="/assets/images/people/dummy.png" alt="Jonas Busam" width="300px" height="auto"> 
+		<img src="/assets/images/people/dummy.png" alt="Jonas Busam" width="200px" height="auto"> 
 	</div>
 </div>
 
@@ -109,23 +109,23 @@ title: Who is the Zarnack Group?
 	<h2>Co-supervisions</h2>
 	<hr>
 	<!-- Clara Hernandez Canas-->
-	<div>
+	<div class="row">
 		<h4>Clara Hernandez Canas</h4>
-		<img src="/assets/images/people/dummy.png" alt="Clara Hernandez Canas" width="300px" height="auto"> 
+		<img src="/assets/images/people/dummy.png" alt="Clara Hernandez Canas" width="200px" height="auto"> 
 		<p><b>Co-supervision:</b> Prof. Michaela Müller-McNicoll, PhD</p>
 	</div>
 	
 	<!-- Maximilian Staps -->
-	<div>
+	<div class="row">
 		<h4>Maximilian Staps</h4>
-		<img src="/assets/images/people/dummy.png" alt="Maximilian Staps" width="300px" height="auto"> 
+		<img src="/assets/images/people/dummy.png" alt="Maximilian Staps" width="200px" height="auto"> 
 		<p><b>Co-supervision:</b> *Coming soon...*</p>
-	</div>
+	</div class="row">
 	
 	<!-- Nikita Verheyden -->
-	<div>
+	<div class="row">
 		<h4>Nikita Verheyden</h4>
-		<img src="/assets/images/people/dummy.png" alt="Nikita Verheyden" width="300px" height="auto"> 
+		<img src="/assets/images/people/dummy.png" alt="Nikita Verheyden" width="200px" height="auto"> 
 		<p><b>Co-supervision:</b> *Coming soon...*</p>
 	</div>
 </div>
