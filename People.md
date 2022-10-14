@@ -42,10 +42,10 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<h4>Dr. Mario Keller</h4>
 			<p>mario.keller(at)bmls.de</p>
-		<div/>
+		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Dr. Mario Keller" width="200px" height="auto">
-		<div/>
+		</div>
 	</div>
 	
 	<!-- Dr. Mirko Brüggemann -->
@@ -53,10 +53,10 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<h4>Dr. Mirko Brüggemann</h4>
 			<p>mirko.brueggemann(at)bmls.de</p>
-		<div/>
+		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Dr. Mirko Brüggemann" width="200px" height="auto">
-		<div/>
+		</div>
 	</div>
 </div>
 
@@ -68,10 +68,10 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<h4>Andre Brezski</h4>
 			<p>brezski(at)em.uni-frankfurt.de</p>
-		<div/>
+		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Andre Brezski" width="200px" height="auto">
-		<div/>
+		</div>
 	</div>
 
 	<!-- Melina Klostermann -->
@@ -79,10 +79,10 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<h4>Melina Klostermann</h4>
 			<p>m.klostermann(at)em.uni-frankfurt.de</p>
-		<div/>
+		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Melina Klostermann" width="200px" height="auto"> 
-		<div/>
+		</div>
 	</div>
 
 	<!-- You Zhou -->
@@ -90,10 +90,10 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<h4>You Zhou</h4>
 			<p>you.zhou(at)bmls.de</p>
-		<div/>
+		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="You Zhou" width="200px" height="auto"> 
-		<div/>
+		</div>
 	</div>
 </div>
 
@@ -104,10 +104,10 @@ title: Who is the Zarnack Group?
 	<div class="row">
 		<div class="column">
 			<h4>Dominik Stroh</h4>
-		<div/>
+		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Dominik Stroh" width="200px" height="auto">
-		<div/>
+		</div>
 	</div>
 </div>
 
@@ -118,29 +118,30 @@ title: Who is the Zarnack Group?
 	<div class="row">
 		<div class="column">
 			<h4>Annika Ladwig</h4>
-		<div/>
+		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Annika Ladwig" width="200px" height="auto">
-		<div/>
+		</div>
 	</div>
 	
 	<!-- Cem -->
 	<div class="row">
 		<div class="column">
 			<h4>Cem</h4>
-		<div/>
+		</div>
+		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Cem" width="200px" height="auto"> 
-		<div/>
+		</div>
 	</div>
 	
 	<!-- Jonas Busam -->
 	<div class="row">
 		<div class="column">
 			<h4>Jonas Busam</h4>
-		<div/>
+		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Jonas Busam" width="200px" height="auto"> 
-		<div/>
+		</div>
 	</div>
 </div>
 
@@ -152,10 +153,10 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<h4>Clara Hernandez Canas</h4>
 			<p><b>Co-supervision:</b> Prof. Michaela Müller-McNicoll, PhD</p>
-		<div/>
+		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Clara Hernandez Canas" width="200px" height="auto"> 
-		<div/>
+		</div>
 	</div>
 	
 	<!-- Maximilian Staps -->
@@ -163,10 +164,10 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<h4>Maximilian Staps</h4>
 			<p><b>Co-supervision:</b> *Coming soon...*</p>
-		<div/>
+		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Maximilian Staps" width="200px" height="auto"> 
-		<div/>
+		</div>
 	</div>
 	
 	<!-- Nikita Verheyden -->
@@ -174,9 +175,9 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<h4>Nikita Verheyden</h4>
 			<p><b>Co-supervision:</b> *Coming soon...*</p>
-		<div/>
+		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Nikita Verheyden" width="200px" height="auto">
-		<div/>
+		</div>
 	</div>
 </div>
