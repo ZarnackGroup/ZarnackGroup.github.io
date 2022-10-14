@@ -10,20 +10,18 @@ title: Who is the Zarnack Group?
 </div>
 
 <!-- Group lead -->
-<div>  
+<div class="row">  
 	<h2>Group leader</h2>
 	<hr>
 	<!-- Dr. Katharina Zarnack -->
-	<div>
-		<table> 
-			<tr>
-    			<th>
-					<h4>Dr. Katharina Zarnack</h4>
-					kathi.zarnack(at)bmls.de
-				</th>
-    			<th><img src="/assets/images/people/dummy.png" alt="Dr. Katharina Zarnack" width="3cm" height="auto"></th>
-  			</tr>
-		</table>
+	<div class="row">
+		<div class="column">
+			<h4>Dr. Katharina Zarnack</h4>
+			<p>kathi.zarnack(at)bmls.de</p>
+		</div>
+		<div class="column">
+			<img src="/assets/images/people/dummy.png" alt="Dr. Katharina Zarnack" width="3cm" height="auto">
+		</div>
 	</div>
 </div>
 
