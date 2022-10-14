@@ -6,9 +6,8 @@ title: Who are we?
 
 ## Group leader
 ### Dr. Katharina Zarnack
-**kathi.zarnack(at)bmls.de**
+kathi.zarnack(at)bmls.de
 
-**Adress:**\n
 BMLS Buchmann Institute for Molecular Life Sciences\n
 Goethe University Frankfurt\n
 Max von Laue Str. 15\n
@@ -19,13 +18,13 @@ Germany
 
 ## Post-Docs
 ### Dr. Mario Keller
-**mario.keller(at)bmls.de**
+mario.keller(at)bmls.de
 
 **Research interest:**
 
 
 ### Dr. Mirko Brüggemann
-**mirko.brueggemann(at)bmls.de**
+mirko.brueggemann(at)bmls.de
 
 **Research interest:**
 
@@ -33,19 +32,19 @@ Germany
 
 ## PhD students
 ### Andre Brezski
-**brezski(at)em.uni-frankfurt.de**
+brezski(at)em.uni-frankfurt.de
 
 **Research interest:**
 
 
 ### Melina Klostermann
-**m.klostermann(at)em.uni-frankfurt.de**
+m.klostermann(at)em.uni-frankfurt.de
 
 **Research interest:**
 
 
 ### You Zhou
-**you.zhou(at)bmls.de**
+you.zhou(at)bmls.de
 
 **Research interest:**
 
