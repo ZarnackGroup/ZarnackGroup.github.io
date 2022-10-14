@@ -5,21 +5,21 @@ title: Who is the Zarnack Group?
 ---
 
 ![Zarnack Group](/assets/images/people/dummy.png "Zarnack Group")
-<p>Does this have html support?</p>
-## Group leader
+
+<h2>Group leader</h2>
 ---
-### Dr. Katharina Zarnack 
+<h4>Dr. Katharina Zarnack</h4>
 ![Katharina Zarnack](/assets/images/people/dummy.png "Katharina Zarnack")  
 kathi.zarnack(at)bmls.de 
 
-BMLS Buchmann Institute for Molecular Life Sciences  
+Buchmann Institute for Molecular Life Sciences  
 Goethe University Frankfurt  
 Max von Laue Str. 15  
 60438 Frankfurt/Main  
 Germany 
 
 
-## Post-Docs
+<h2>Post-Docs</h2>
 ---
 ### Dr. Mario Keller
 ![Mario Keller](/assets/images/people/dummy.png "Mario Keller")  
@@ -36,7 +36,7 @@ mirko.brueggemann(at)bmls.de
 > *Coming soon...*
 
 
-## PhD students
+<h2>PhD students</h2>
 ---
 ### Andre Brezski
 ![Andre Brezski](/assets/images/people/dummy.png "Andre Brezski")  
@@ -60,7 +60,7 @@ you.zhou(at)bmls.de
 > *Coming soon...*
 
 
-## Master students
+<h2>Master students</h2>
 ---
 ### Dominik Stroh
 ![Dominik Stroh](/assets/images/people/dummy.png "Dominik Stroh")  
@@ -69,7 +69,7 @@ you.zhou(at)bmls.de
 > *Coming soon...*
 
 
-# Research assistants
+<h2>Research assistants</h2>
 ---
 ### Annika Ladwig
 ![Annika Ladwig](/assets/images/people/dummy.png "Annika Ladwig")  
@@ -90,7 +90,7 @@ you.zhou(at)bmls.de
 > *Coming soon...*
 
 
-## Co-supervisions
+<h2>Co-supervisions</h2>
 ---
 ### Clara Hernandez Canas
 ![Clara Hernandez Canas](/assets/images/people/dummy.png "Clara Hernandez Canas")  
