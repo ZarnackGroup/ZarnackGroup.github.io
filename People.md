@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: default
 author_profile: false
 title: Who is the Zarnack Group?
 ---
