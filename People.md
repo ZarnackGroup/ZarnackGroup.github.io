@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: splash
 author_profile: false
 title: Who is the Zarnack Group?
 ---
