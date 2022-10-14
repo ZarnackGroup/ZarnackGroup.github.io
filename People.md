@@ -10,8 +10,8 @@ title: Who is the Zarnack Group?
 </div>
 
 <!-- Group lead -->
-<div class="row">  
-	<h2>Group leader</h2>
+<div class="container">  
+	<h2>Group lead</h2>
 	<hr>
 	<!-- Dr. Katharina Zarnack -->
 	<div class="row">
@@ -120,7 +120,7 @@ title: Who is the Zarnack Group?
 		<h4>Maximilian Staps</h4>
 		<img src="/assets/images/people/dummy.png" alt="Maximilian Staps" width="200px" height="auto"> 
 		<p><b>Co-supervision:</b> *Coming soon...*</p>
-	</div class="row">
+	</div>
 	
 	<!-- Nikita Verheyden -->
 	<div class="row">
