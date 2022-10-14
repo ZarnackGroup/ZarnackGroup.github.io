@@ -5,6 +5,7 @@ title: Who are we?
 ---
 
 ## Group leader
+---
 ### Dr. Katharina Zarnack
 kathi.zarnack(at)bmls.de 
 
@@ -15,7 +16,6 @@ Max von Laue Str. 15
 Germany 
 
 
----
 ## Post-Docs
 ---
 ### Dr. Mario Keller
@@ -31,7 +31,6 @@ mirko.brueggemann(at)bmls.de
 > *Coming soon...*
 
 
----
 ## PhD students
 ---
 ### Andre Brezski
@@ -53,7 +52,6 @@ you.zhou(at)bmls.de
 > *Coming soon...*
 
 
----
 ## Master students
 ---
 ### Dominik Stroh
@@ -61,7 +59,6 @@ you.zhou(at)bmls.de
 > *Coming soon...*
 
 
----
 # Research assistants
 ---
 ### Annika Ladwig
@@ -77,14 +74,13 @@ you.zhou(at)bmls.de
 > *Coming soon...*
 
 
----
 ## Co-supervisions
 ---
-### Clara Hernandez Canas
+### - Clara Hernandez Canas
 **Co-supervision:** Prof. Michaela Müller-McNicoll, PhD 
 
-### Maximilian Staps
+### - Maximilian Staps
 **Co-supervision:** *Coming soon...*
 
-### Nikita Verheyden
+### - Nikita Verheyden
 **Co-supervision:** *Coming soon...*
