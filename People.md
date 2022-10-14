@@ -8,11 +8,11 @@ title: Who are we?
 ### Dr. Katharina Zarnack
 **kathi.zarnack(at)bmls.de**
 
-**Adress:**
-BMLS Buchmann Institute for Molecular Life Sciences
-Goethe University Frankfurt
-Max von Laue Str. 15
-60438 Frankfurt/Main
+**Adress:**\n
+BMLS Buchmann Institute for Molecular Life Sciences\n
+Goethe University Frankfurt\n
+Max von Laue Str. 15\n
+60438 Frankfurt/Main\n
 Germany
 
 
