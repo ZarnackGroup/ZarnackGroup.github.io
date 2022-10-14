@@ -4,6 +4,18 @@ author_profile: false
 title: Who is the Zarnack Group?
 ---
 
+<style>
+ .row {
+  display: flex;
+ }
+.column {
+  flex: 1;
+}
+.column:last-child {
+  margin-left: 20px;
+}
+</style>
+
 <!-- Group picture -->
 <div class="row">
 	 <img src="/assets/images/people/dummy.png" alt="Zarnack Group" width="300px" height="auto"> 
