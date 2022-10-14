@@ -5,7 +5,7 @@ title: Who is the Zarnack Group?
 ---
 
 ![Zarnack Group](/assets/images/people/dummy.png "Zarnack Group")
-
+<p>Does this have html support?</p>
 ## Group leader
 ---
 ### Dr. Katharina Zarnack 
