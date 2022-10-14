@@ -4,49 +4,54 @@ author_profile: false
 title: Who are we?
 ---
 
-# Group leader
+## Group leader
 ### Dr. Katharina Zarnack
-**Mail:**
+**kathi.zarnack(at)bmls.de**
 
 **Adress:**
+BMLS Buchmann Institute for Molecular Life Sciences
+Goethe University Frankfurt
+Max von Laue Str. 15
+60438 Frankfurt/Main
+Germany
 
 
 
-# Post-Docs
+## Post-Docs
 ### Dr. Mario Keller
-**Mail:**
+**mario.keller(at)bmls.de**
 
 **Research interest:**
 
 
 ### Dr. Mirko Brüggemann
-**Mail:**
+**mirko.brueggemann(at)bmls.de**
 
 **Research interest:**
 
 
 
-# PhD students
+## PhD students
 ### Andre Brezski
-**Mail:**
+**brezski(at)em.uni-frankfurt.de**
 
 **Research interest:**
 
 
 ### Melina Klostermann
-**Mail:**
+**m.klostermann(at)em.uni-frankfurt.de**
 
 **Research interest:**
 
 
 ### You Zhou
-**Mail:**
+**you.zhou(at)bmls.de**
 
 **Research interest:**
 
 
 
-# Master students
+## Master students
 ### Dominik Stroh
 **Research project:**
 
@@ -66,26 +71,20 @@ title: Who are we?
 
 
 
-# Co-supervisions
+## Co-supervisions
 ### Clara Hernandez Canas
-**Mail:**
-
-**Co-supervision:**
+**Co-supervision:** Prof. Michaela Müller-McNicoll, PhD
 
 **Research interest:**
 
 
 ### Maximilian Staps
-**Mail:**
-
 **Co-supervision:**
 
 **Research interest:**
 
 
 ### Nikita Verheyden
-**Mail:**
-
 **Co-supervision:**
 
 **Research interest:**
