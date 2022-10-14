@@ -6,24 +6,18 @@ title: Who is the Zarnack Group?
 
 <!-- Group picture -->
 <div>
-	![Zarnack Group](/assets/images/people/dummy.png "Zarnack Group")
+	 <img src="/assets/images/people/dummy.png" alt="Zarnack Group" width="100%" height="auto"> 
 </div>
 
 <!-- Group lead -->
 <div>  
 	<h2>Group leader</h2>
 	<hr>
-	<!-- Katharina Zarnack -->
+	<!-- Dr. Katharina Zarnack -->
 	<div>
 		<h4>Dr. Katharina Zarnack</h4>
-		![Katharina Zarnack](/assets/images/people/dummy.png "Katharina Zarnack")  
-		kathi.zarnack(at)bmls.de 
-
-		Buchmann Institute for Molecular Life Sciences  
-		Goethe University Frankfurt  
-		Max von Laue Str. 15  
-		60438 Frankfurt/Main  
-		Germany
+		<img src="/assets/images/people/dummy.png" alt="Dr. Katharina Zarnack" width="100%" height="auto"> 
+		<p>kathi.zarnack(at)bmls.de</p>
 	</div>
 </div>
 
@@ -31,99 +25,103 @@ title: Who is the Zarnack Group?
 <div>
 	<h2>Post-Docs</h2>
 	<hr>
-	<!-- Mario Keller -->
-	<h4>Dr. Mario Keller</h4>
-	![Mario Keller](/assets/images/people/dummy.png "Mario Keller")  
-	mario.keller(at)bmls.de 
-
-	**Research interest:**
-	> *Coming soon...*
-
-	<!-- Mirko Brüggemann -->
-	<h4>Dr. Mirko Brüggemann</h4>
-	![Mirko Brüggemann](/assets/images/people/dummy.png "Mirko Brüggemann")  
-	mirko.brueggemann(at)bmls.de 
-
-	**Research interest:**
-	> *Coming soon...*
+	<!-- Dr. Mario Keller -->
+	<div>
+		<h4>Dr. Mario Keller</h4>
+		<img src="/assets/images/people/dummy.png" alt="Dr. Mario Keller" width="100%" height="auto"> 
+		<p>mario.keller(at)bmls.de</p>
+	</div>
+	
+	<!-- Dr. Mirko Brüggemann -->
+	<div>
+		<h4>Dr. Mirko Brüggemann</h4>
+		<img src="/assets/images/people/dummy.png" alt="Dr. Mirko Brüggemann" width="100%" height="auto"> 
+		<p>mirko.brueggemann(at)bmls.de</p>
+	</div>
 </div>
 
 <!-- PhD students -->
 <div>
 	<h2>PhD students</h2>
 	<hr>
-	<h4>Andre Brezski</h4>
-	![Andre Brezski](/assets/images/people/dummy.png "Andre Brezski")  
-	brezski(at)em.uni-frankfurt.de 
+	<!-- Andre Brezski -->
+	<div>
+		<h4>Andre Brezski</h4>
+		<img src="/assets/images/people/dummy.png" alt="Andre Brezski" width="100%" height="auto"> 
+		<p>brezski(at)em.uni-frankfurt.de</p>
+	</div>
 
-	**Research interest:**
-	> *Coming soon...*
+	<!-- Melina Klostermann -->
+	<div>
+		<h4>Melina Klostermann</h4>
+		<img src="/assets/images/people/dummy.png" alt="Melina Klostermann" width="100%" height="auto"> 
+		<p>m.klostermann(at)em.uni-frankfurt.de</p>
+	</div>
 
-	<h4>Melina Klostermann</h4>
-	![Melina Klostermann](/assets/images/people/dummy.png "Melina Klostermann")  
-	m.klostermann(at)em.uni-frankfurt.de 
-
-	**Research interest:**
-	> *Coming soon...*
-
-	<h4>You Zhou</h4>
-	![You Zhou](/assets/images/people/dummy.png "You Zhou")  
-	you.zhou(at)bmls.de 
-
-	**Research interest:**
-	> *Coming soon...*
+	<!-- You Zhou -->
+	<div>
+		<h4>You Zhou</h4>
+		<img src="/assets/images/people/dummy.png" alt="You Zhou" width="100%" height="auto"> 
+		<p>you.zhou(at)bmls.de</p>
+	</div>
 </div>
 
 <!-- Master students -->
 <div>
 	<h2>Master students</h2>
 	<hr>
-	<h4>Dominik Stroh</h4>
-	![Dominik Stroh](/assets/images/people/dummy.png "Dominik Stroh")  
-
-	**Research project:**
-	> *Coming soon...*
+	<!-- Dominik Stroh -->
+	<div>
+		<h4>Dominik Stroh</h4>
+		<img src="/assets/images/people/dummy.png" alt="Dominik Stroh" width="100%" height="auto"> 
+	</div>
 </div>
 
 <!-- Research assistants -->
 <div>
 	<h2>Research assistants</h2>
 	<hr>
-	<h4>Annika Ladwig</h4>
-	![Annika Ladwig](/assets/images/people/dummy.png "Annika Ladwig")  
-
-	**Research project:**
-	> *Coming soon...*
-
-	<h4>Cem</h4>
-	![Cem](/assets/images/people/dummy.png "Cem")  
-
-	**Research project:**
-	> *Coming soon...*
-
-	<h4>Jonas Busam</h4>
-	![Jonas Busam](/assets/images/people/dummy.png "Jonas Busam")  
-
-	**Research project:**
-	> *Coming soon...*
+	<!-- Annika Ladwig -->
+	<div>
+		<h4>Annika Ladwig</h4>
+		<img src="/assets/images/people/dummy.png" alt="Annika Ladwig" width="100%" height="auto"> 
+	</div>
+	
+	<!-- Cem -->
+	<div>
+		<h4>Cem</h4>
+		<img src="/assets/images/people/dummy.png" alt="Cem" width="100%" height="auto"> 
+	</div>
+	
+	<!-- Jonas Busam -->
+	<div>
+		<h4>Jonas Busam</h4>
+		<img src="/assets/images/people/dummy.png" alt="Jonas Busam" width="100%" height="auto"> 
+	</div>
 </div>
 
 <!-- Co-supervisions -->
 <div>
 	<h2>Co-supervisions</h2>
 	<hr>
-	<h4>Clara Hernandez Canas</h4>
-	![Clara Hernandez Canas](/assets/images/people/dummy.png "Clara Hernandez Canas")  
-
-	**Co-supervision:** Prof. Michaela Müller-McNicoll, PhD 
-
-	<h4>Maximilian Staps</h4>
-	![Maximilian Staps](/assets/images/people/dummy.png "Maximilian Staps")  
-
-	**Co-supervision:** *Coming soon...*
-
-	<h4>Nikita Verheyden</h4>
-	![Nikita Verheyden](/assets/images/people/dummy.png "Nikita Verheyden")  
-
-	**Co-supervision:** *Coming soon...*
+	<!-- Clara Hernandez Canas-->
+	<div>
+		<h4>Clara Hernandez Canas</h4>
+		<img src="/assets/images/people/dummy.png" alt="Clara Hernandez Canas" width="100%" height="auto"> 
+		<p><b>Co-supervision:</b> Prof. Michaela Müller-McNicoll, PhD</p>
+	</div>
+	
+	<!-- Maximilian Staps -->
+	<div>
+		<h4>Maximilian Staps</h4>
+		<img src="/assets/images/people/dummy.png" alt="Maximilian Staps" width="100%" height="auto"> 
+		<p><b>Co-supervision:</b> *Coming soon...*</p>
+	</div>
+	
+	<!-- Nikita Verheyden -->
+	<div>
+		<h4>Nikita Verheyden</h4>
+		<img src="/assets/images/people/dummy.png" alt="Nikita Verheyden" width="100%" height="auto"> 
+		<p><b>Co-supervision:</b> *Coming soon...*</p>
+	</div>
 </div>
