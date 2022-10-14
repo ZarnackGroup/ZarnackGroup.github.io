@@ -6,7 +6,7 @@ title: Who is the Zarnack Group?
 
 <!-- Group picture -->
 <div>
-	 <img src="/assets/images/people/dummy.png" alt="Zarnack Group" width="100%" height="auto"> 
+	 <img src="/assets/images/people/dummy.png" alt="Zarnack Group" width="3cm" height="auto"> 
 </div>
 
 <!-- Group lead -->
@@ -15,9 +15,15 @@ title: Who is the Zarnack Group?
 	<hr>
 	<!-- Dr. Katharina Zarnack -->
 	<div>
-		<h4>Dr. Katharina Zarnack</h4>
-		<img src="/assets/images/people/dummy.png" alt="Dr. Katharina Zarnack" width="100%" height="auto"> 
-		<p>kathi.zarnack(at)bmls.de</p>
+		<table> 
+			<tr>
+    			<th>
+					<h4>Dr. Katharina Zarnack</h4>
+					kathi.zarnack(at)bmls.de
+				</th>
+    			<th><img src="/assets/images/people/dummy.png" alt="Dr. Katharina Zarnack" width="3cm" height="auto"></th>
+  			</tr>
+		</table>
 	</div>
 </div>
 
