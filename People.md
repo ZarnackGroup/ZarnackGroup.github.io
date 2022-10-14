@@ -5,14 +5,12 @@ title: Who is the Zarnack Group?
 ---
 
 <style>
- .row {
+.row {
   display: flex;
- }
-.column {
-  flex: 1;
 }
-.column:last-child {
-  margin-left: 20px;
+
+.column {
+  flex: 50%;
 }
 </style>
 
