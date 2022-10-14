@@ -6,7 +6,7 @@ title: Who are we?
 
 ## Group leader
 ### Dr. Katharina Zarnack
-<kathi.zarnack(at)bmls.de> 
+kathi.zarnack(at)bmls.de 
 
 BMLS Buchmann Institute for Molecular Life Sciences 
 Goethe University Frankfurt 
@@ -17,85 +17,74 @@ Germany
 
 ---
 ## Post-Docs
+---
 ### Dr. Mario Keller
-<mario.keller(at)bmls.de> 
+mario.keller(at)bmls.de 
 
 **Research interest:**
-> Lorem ipsum
-
+> *Coming soon...*
 
 ### Dr. Mirko Brüggemann
-<mirko.brueggemann(at)bmls.de> 
+mirko.brueggemann(at)bmls.de 
 
 **Research interest:**
-> Lorem ipsum
+> *Coming soon...*
 
 
 ---
 ## PhD students
+---
 ### Andre Brezski
-<brezski(at)em.uni-frankfurt.de> 
+brezski(at)em.uni-frankfurt.de 
 
 **Research interest:**
-> Lorem ipsum
-
+> *Coming soon...*
 
 ### Melina Klostermann
-<m.klostermann(at)em.uni-frankfurt.de> 
+m.klostermann(at)em.uni-frankfurt.de 
 
 **Research interest:**
-> Lorem ipsum
-
+> *Coming soon...*
 
 ### You Zhou
-<you.zhou(at)bmls.de> 
+you.zhou(at)bmls.de 
 
 **Research interest:**
-> Lorem ipsum
+> *Coming soon...*
 
 
 ---
 ## Master students
+---
 ### Dominik Stroh
 **Research project:**
-> Lorem Ipsum
+> *Coming soon...*
 
 
 ---
 # Research assistants
+---
 ### Annika Ladwig
 **Research project:**
-> Lorem Ipsum
-
+> *Coming soon...*
 
 ### Cem
 **Research project:**
-> Lorem Ipsum
-
+> *Coming soon...*
 
 ### Jonas Busam
 **Research project:**
-> Lorem Ipsum
+> *Coming soon...*
 
 
 ---
 ## Co-supervisions
+---
 ### Clara Hernandez Canas
 **Co-supervision:** Prof. Michaela Müller-McNicoll, PhD 
 
-**Research interest:**
-> Lorem ipsum
-
-
 ### Maximilian Staps
-**Co-supervision:**
-
-**Research interest:**
-> Lorem ipsum
-
+**Co-supervision:** *Coming soon...*
 
 ### Nikita Verheyden
-**Co-supervision:**
-
-**Research interest:**
-> Lorem ipsum
+**Co-supervision:** *Coming soon...*
