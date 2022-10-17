@@ -26,7 +26,7 @@ title: Who is the Zarnack Group?
 	<div class="row">
 		<div class="column">
 			<h3>Dr. Katharina Zarnack</h3>
-			<p>kathi.zarnack(at)bmls.de</p>
+			<p>kathi.zarnack(at)<wbr>bmls.de</p>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Dr. Katharina Zarnack" width="200px" height="auto">
@@ -41,7 +41,7 @@ title: Who is the Zarnack Group?
 	<div class="row">
 		<div class="column">
 			<h3>Dr. Mario Keller</h3>
-			<p>mario.keller(at)bmls.de</p>
+			<p>mario.keller(at)<wbr>bmls.de</p>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Dr. Mario Keller" width="200px" height="auto">
@@ -52,7 +52,7 @@ title: Who is the Zarnack Group?
 	<div class="row">
 		<div class="column">
 			<h3>Dr. Mirko Brüggemann</h3>
-			<p>mirko.brueggemann(at)bmls.de</p>
+			<p>mirko.brueggemann(at)<wbr>bmls.de</p>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Dr. Mirko Brüggemann" width="200px" height="auto">
@@ -67,7 +67,7 @@ title: Who is the Zarnack Group?
 	<div class="row">
 		<div class="column">
 			<h3>Andre Brezski</h3>
-			<p>brezski(at)em.uni-frankfurt.de</p>
+			<p>brezski(at)<wbr>em.uni-frankfurt.de</p>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Andre Brezski" width="200px" height="auto">
@@ -78,7 +78,7 @@ title: Who is the Zarnack Group?
 	<div class="row">
 		<div class="column">
 			<h3>Melina Klostermann</h3>
-			<p>m.klostermann(at)em.uni-frankfurt.de</p>
+			<p>m.klostermann(at)<wbr>em.uni-frankfurt.de</p>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Melina Klostermann" width="200px" height="auto"> 
@@ -89,7 +89,7 @@ title: Who is the Zarnack Group?
 	<div class="row">
 		<div class="column">
 			<h3>You Zhou</h3>
-			<p>you.zhou(at)bmls.de</p>
+			<p>you.zhou(at)<wbr>bmls.de</p>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="You Zhou" width="200px" height="auto"> 
@@ -174,7 +174,7 @@ title: Who is the Zarnack Group?
 	<div class="row">
 		<div class="column">
 			<h3>Nikita Verheyden</h3>
-			<p><b>Co-supervision:</b> *Coming soon...*</p>
+			<p><b>Co-supervision:</b> Prof. Dr. Andreas Krueger</p>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Nikita Verheyden" width="200px" height="auto">
