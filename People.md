@@ -130,7 +130,7 @@ title: Who is the Zarnack Group?
 			<h3>Dominik Stroh</h3>
 		</div>
 		<div class="column">
-			<img src="/assets/images/people/dummy.png" alt="Dominik Stroh">
+			<img src="/assets/images/people/dominik_stroh.png" alt="Dominik Stroh">
 		</div>
 	</div>
 	<p> </p>
