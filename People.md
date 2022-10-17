@@ -13,7 +13,7 @@ title: Who is the Zarnack Group?
 	  flex: 50%;
 	}
 	
-	img {
+	.img {
 	  width="300px";
 	  height="auto";
 	  border-radius: 10%;
