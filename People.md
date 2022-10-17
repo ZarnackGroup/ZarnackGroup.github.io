@@ -32,7 +32,9 @@ title: Who is the Zarnack Group?
 	<div class="row">
 		<div class="column">
 			<h3>Dr. Katharina Zarnack</h3>
-			<p>kathi.zarnack(at)<wbr>bmls.de</p>
+			<p>kathi.zarnack(at)<wbr>bmls.de</p>	
+			<p><a href="https://scholar.google.de/citations?user=1p2TV_kAAAAJ">Google scholar</a></p>
+			<p>BMLS Buchmann Institute for Molecular Life Sciences<br>Goethe University Frankfurt<br>Max von Laue Str. 15<br>60438 Frankfurt/Main<br>Germany</p>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/katharina_zarnack.png" alt="Dr. Katharina Zarnack">
@@ -49,6 +51,7 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<h3>Dr. Mario Keller</h3>
 			<p>mario.keller(at)<wbr>bmls.de</p>
+			<p><a href="https://scholar.google.de/citations?user=WCCFjgQAAAAJ">Google scholar</a></p>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/mario_keller.png" alt="Dr. Mario Keller">
@@ -61,6 +64,7 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<h3>Dr. Mirko Brüggemann</h3>
 			<p>mirko.brueggemann(at)<wbr>bmls.de</p>
+			<p><a href="https://scholar.google.de/citations?user=JDbZMKoAAAAJ">Google scholar</a></p>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/mirko_brueggemann.png" alt="Dr. Mirko Brüggemann">
@@ -161,9 +165,9 @@ title: Who is the Zarnack Group?
 	<p> </p>
 </div>
 
-<!-- Co-supervisions -->
+<!-- Co-supervisions/Internships -->
 <div class="container">
-	<h1>Co-supervisions</h1>
+	<h1>Co-supervisions/Internships</h1>
 	<!-- Clara Hernandez Canas-->
 	<div class="row">
 		<div class="column">
