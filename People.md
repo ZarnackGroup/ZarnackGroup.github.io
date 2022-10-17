@@ -13,6 +13,14 @@ title: Who is the Zarnack Group?
 	  flex: 50%;
 	}
 	
+	.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+	height: auto;
+	}
+	
 	img {
 	  width: 300px;
 	  height: auto;
@@ -22,7 +30,7 @@ title: Who is the Zarnack Group?
 
 <!-- Group picture -->
 <div class="row">
-	 <img src="/assets/images/people/dummy.png" alt="Zarnack Group" width="300px" height="auto" class="center"> 
+	 <img src="/assets/images/people/dummy.png" alt="Zarnack Group" class="center"> 
 </div>
 
 <!-- Group lead -->
