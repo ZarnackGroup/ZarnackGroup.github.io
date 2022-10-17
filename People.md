@@ -38,6 +38,7 @@ title: Who is the Zarnack Group?
 			<img class="img_team" src="/assets/images/people/katharina_zarnack.png" alt="Dr. Katharina Zarnack">
 		</div>
 	</div>
+	<p> </p>
 </div>
 
 <!-- Post-Docs -->
@@ -52,8 +53,8 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<img class="img_team" src="/assets/images/people/mario_keller.png" alt="Dr. Mario Keller">
 		</div>
-		<p> </p>
 	</div>
+	<p> </p>
 	
 	<!-- Dr. Mirko Brüggemann -->
 	<div class="row">
@@ -64,8 +65,8 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<img class="img_team" src="/assets/images/people/mirko_brueggemann.png" alt="Dr. Mirko Brüggemann">
 		</div>
-		<p> </p>
 	</div>
+	<p> </p>
 </div>
 
 <!-- PhD students -->
@@ -80,8 +81,8 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<img class="img_team" class="img_team" src="/assets/images/people/dummy.png" alt="Andre Brezski">
 		</div>
-		<p> </p>
 	</div>
+	<p> </p>
 
 	<!-- Melina Klostermann -->
 	<div class="row">
@@ -92,8 +93,8 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<img class="img_team" src="/assets/images/people/melina_klostermann.png" alt="Melina Klostermann"> 
 		</div>
-		<p> </p>
 	</div>
+	<p> </p>
 
 	<!-- You Zhou -->
 	<div class="row">
@@ -104,8 +105,8 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<img class="img_team" src="/assets/images/people/you_zhou.png" alt="You Zhou"> 
 		</div>
-		<p> </p>
 	</div>
+	<p> </p>
 </div>
 
 <!-- Master students -->
@@ -119,8 +120,8 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<img class="img_team" src="/assets/images/people/dummy.png" alt="Dominik Stroh">
 		</div>
-		<p> </p>
 	</div>
+	<p> </p>
 </div>
 
 <!-- Research assistants -->
@@ -134,8 +135,8 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<img class="img_team" src="/assets/images/people/dummy.png" alt="Annika Ladwig">
 		</div>
-		<p> </p>
 	</div>
+	<p> </p>
 	
 	<!-- Cem Bakisoglu -->
 	<div class="row">
@@ -145,8 +146,8 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<img class="img_team" src="/assets/images/people/dummy.png" alt="Cem Bakisoglu"> 
 		</div>
-		<p> </p>
 	</div>
+	<p> </p>
 	
 	<!-- Jonas Busam -->
 	<div class="row">
@@ -156,8 +157,8 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<img class="img_team" src="/assets/images/people/dummy.png" alt="Jonas Busam"> 
 		</div>
-		<p> </p>
 	</div>
+	<p> </p>
 </div>
 
 <!-- Co-supervisions -->
@@ -172,8 +173,8 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<img class="img_team" src="/assets/images/people/clara_hernandez_canas.png" alt="Clara Hernandez Canas"> 
 		</div>
-		<p> </p>
 	</div>
+	<p> </p>
 	
 	<!-- Maximilian Staps -->
 	<div class="row">
@@ -184,8 +185,8 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<img class="img_team" src="/assets/images/people/maximilian_staps.png" alt="Maximilian Staps"> 
 		</div>
-		<p> </p>
 	</div>
+	<p> </p>
 	
 	<!-- Nikita Verheyden -->
 	<div class="row">
@@ -196,6 +197,6 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<img class="img_team" src="/assets/images/people/nikita_verheyden.png" alt="Nikita Verheyden">
 		</div>
-		<p> </p>
 	</div>
+	<p> </p>
 </div>
