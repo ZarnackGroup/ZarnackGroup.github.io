@@ -13,7 +13,7 @@ title: Who is the Zarnack Group?
 	  flex: 50%;
 	}
 	
-	.img_team {
+	img {
 	  width="300px";
 	  height="auto";
 	  border-radius: 10%;
@@ -35,7 +35,7 @@ title: Who is the Zarnack Group?
 			<p>kathi.zarnack(at)<wbr>bmls.de</p>
 		</div>
 		<div class="column">
-			<img class="img_team" src="/assets/images/people/katharina_zarnack.png" alt="Dr. Katharina Zarnack">
+			<img src="/assets/images/people/katharina_zarnack.png" alt="Dr. Katharina Zarnack">
 		</div>
 	</div>
 	<p> </p>
@@ -51,7 +51,7 @@ title: Who is the Zarnack Group?
 			<p>mario.keller(at)<wbr>bmls.de</p>
 		</div>
 		<div class="column">
-			<img class="img_team" src="/assets/images/people/mario_keller.png" alt="Dr. Mario Keller">
+			<img src="/assets/images/people/mario_keller.png" alt="Dr. Mario Keller">
 		</div>
 	</div>
 	<p> </p>
@@ -63,7 +63,7 @@ title: Who is the Zarnack Group?
 			<p>mirko.brueggemann(at)<wbr>bmls.de</p>
 		</div>
 		<div class="column">
-			<img class="img_team" src="/assets/images/people/mirko_brueggemann.png" alt="Dr. Mirko Brüggemann">
+			<img src="/assets/images/people/mirko_brueggemann.png" alt="Dr. Mirko Brüggemann">
 		</div>
 	</div>
 	<p> </p>
@@ -79,7 +79,7 @@ title: Who is the Zarnack Group?
 			<p>brezski(at)<wbr>em.uni-frankfurt.de</p>
 		</div>
 		<div class="column">
-			<img class="img_team" class="img_team" src="/assets/images/people/dummy.png" alt="Andre Brezski">
+			<img class="img_team" src="/assets/images/people/dummy.png" alt="Andre Brezski">
 		</div>
 	</div>
 	<p> </p>
@@ -91,7 +91,7 @@ title: Who is the Zarnack Group?
 			<p>m.klostermann(at)<wbr>em.uni-frankfurt.de</p>
 		</div>
 		<div class="column">
-			<img class="img_team" src="/assets/images/people/melina_klostermann.png" alt="Melina Klostermann"> 
+			<img src="/assets/images/people/melina_klostermann.png" alt="Melina Klostermann"> 
 		</div>
 	</div>
 	<p> </p>
@@ -103,7 +103,7 @@ title: Who is the Zarnack Group?
 			<p>you.zhou(at)<wbr>bmls.de</p>
 		</div>
 		<div class="column">
-			<img class="img_team" src="/assets/images/people/you_zhou.png" alt="You Zhou"> 
+			<img src="/assets/images/people/you_zhou.png" alt="You Zhou"> 
 		</div>
 	</div>
 	<p> </p>
@@ -118,7 +118,7 @@ title: Who is the Zarnack Group?
 			<h3>Dominik Stroh</h3>
 		</div>
 		<div class="column">
-			<img class="img_team" src="/assets/images/people/dummy.png" alt="Dominik Stroh">
+			<img src="/assets/images/people/dummy.png" alt="Dominik Stroh">
 		</div>
 	</div>
 	<p> </p>
@@ -133,7 +133,7 @@ title: Who is the Zarnack Group?
 			<h3>Annika Ladwig</h3>
 		</div>
 		<div class="column">
-			<img class="img_team" src="/assets/images/people/dummy.png" alt="Annika Ladwig">
+			<img src="/assets/images/people/dummy.png" alt="Annika Ladwig">
 		</div>
 	</div>
 	<p> </p>
@@ -144,7 +144,7 @@ title: Who is the Zarnack Group?
 			<h3>Cem Bakisoglu</h3>
 		</div>
 		<div class="column">
-			<img class="img_team" src="/assets/images/people/dummy.png" alt="Cem Bakisoglu"> 
+			<img src="/assets/images/people/dummy.png" alt="Cem Bakisoglu"> 
 		</div>
 	</div>
 	<p> </p>
@@ -155,7 +155,7 @@ title: Who is the Zarnack Group?
 			<h3>Jonas Busam</h3>
 		</div>
 		<div class="column">
-			<img class="img_team" src="/assets/images/people/dummy.png" alt="Jonas Busam"> 
+			<img src="/assets/images/people/dummy.png" alt="Jonas Busam"> 
 		</div>
 	</div>
 	<p> </p>
@@ -171,7 +171,7 @@ title: Who is the Zarnack Group?
 			<p>Prof. Michaela Müller-McNicoll, PhD<br>Goethe University Frankfurt</p>
 		</div>
 		<div class="column">
-			<img class="img_team" src="/assets/images/people/clara_hernandez_canas.png" alt="Clara Hernandez Canas"> 
+			<img src="/assets/images/people/clara_hernandez_canas.png" alt="Clara Hernandez Canas"> 
 		</div>
 	</div>
 	<p> </p>
@@ -183,7 +183,7 @@ title: Who is the Zarnack Group?
 			<p>Dr. Andre Schneider<br>MPI for Heart and Lung Research, Bad Nauheim</p>
 		</div>
 		<div class="column">
-			<img class="img_team" src="/assets/images/people/maximilian_staps.png" alt="Maximilian Staps"> 
+			<img src="/assets/images/people/maximilian_staps.png" alt="Maximilian Staps"> 
 		</div>
 	</div>
 	<p> </p>
@@ -195,7 +195,7 @@ title: Who is the Zarnack Group?
 			<p>Prof. Dr. Andreas Krueger<br>Goethe University Frankfurt</p>
 		</div>
 		<div class="column">
-			<img class="img_team" src="/assets/images/people/nikita_verheyden.png" alt="Nikita Verheyden">
+			<img src="/assets/images/people/nikita_verheyden.png" alt="Nikita Verheyden">
 		</div>
 	</div>
 	<p> </p>
