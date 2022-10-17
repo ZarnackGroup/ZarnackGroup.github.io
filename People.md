@@ -163,7 +163,7 @@ title: Who is the Zarnack Group?
 	<div class="row">
 		<div class="column">
 			<h3>Maximilian Staps</h3>
-			<p>Dr. Andre Schneider<br>MPI for Heart and Lung Research Bad Nauheim</p>
+			<p>Dr. Andre Schneider<br>MPI for Heart and Lung Research, Bad Nauheim</p>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Maximilian Staps" width="200px" height="auto"> 
