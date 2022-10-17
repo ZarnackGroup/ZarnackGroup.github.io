@@ -124,10 +124,10 @@ title: Who is the Zarnack Group?
 		</div>
 	</div>
 	
-	<!-- Cem -->
+	<!-- Cem Bakisoglu -->
 	<div class="row">
 		<div class="column">
-			<h3>Cem</h3>
+			<h3>Cem Bakisoglu</h3>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Cem" width="200px" height="auto"> 
@@ -153,6 +153,7 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<h3>Clara Hernandez Canas</h3>
 			<p><b>Co-supervision:</b> Prof. Michaela Müller-McNicoll, PhD</p>
+			<p>Goethe University Frankfurt</p>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Clara Hernandez Canas" width="200px" height="auto"> 
@@ -163,7 +164,8 @@ title: Who is the Zarnack Group?
 	<div class="row">
 		<div class="column">
 			<h3>Maximilian Staps</h3>
-			<p><b>Co-supervision:</b> *Coming soon...*</p>
+			<p><b>Co-supervision:</b> Dr. Andre Schneider</p>
+			<p>MPI for Heart and Lung Research Bad Nauheim</p>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Maximilian Staps" width="200px" height="auto"> 
@@ -175,6 +177,7 @@ title: Who is the Zarnack Group?
 		<div class="column">
 			<h3>Nikita Verheyden</h3>
 			<p><b>Co-supervision:</b> Prof. Dr. Andreas Krueger</p>
+			<p>Goethe University Frankfurt</p>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/dummy.png" alt="Nikita Verheyden" width="200px" height="auto">
