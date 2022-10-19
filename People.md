@@ -36,6 +36,7 @@ title: Who is the Zarnack Group?
 <!-- Group lead -->
 <div class="container">  
 	<h1>Group lead</h1>
+	<hr>
 	<!-- Dr. Katharina Zarnack -->
 	<div class="row">
 		<div class="column">
@@ -54,6 +55,7 @@ title: Who is the Zarnack Group?
 <!-- Post-Docs -->
 <div class="container">
 	<h1>Post-Docs</h1>
+	<hr>
 	<!-- Dr. Mario Keller -->
 	<div class="row">
 		<div class="column">
@@ -84,6 +86,7 @@ title: Who is the Zarnack Group?
 <!-- PhD students -->
 <div class="container">
 	<h1>PhD students</h1>
+	<hr>
 	<!-- Andre Brezski -->
 	<div class="row">
 		<div class="column">
@@ -124,6 +127,7 @@ title: Who is the Zarnack Group?
 <!-- Master students -->
 <div class="container">
 	<h1>Master students</h1>
+	<hr>
 	<!-- Dominik Stroh -->
 	<div class="row">
 		<div class="column">
@@ -139,6 +143,7 @@ title: Who is the Zarnack Group?
 <!-- Research assistants -->
 <div class="container">
 	<h1>Research assistants</h1>
+	<hr>
 	<!-- Annika Ladwig -->
 	<div class="row">
 		<div class="column">
@@ -176,6 +181,7 @@ title: Who is the Zarnack Group?
 <!-- Co-supervisions/Internships -->
 <div class="container">
 	<h1>Co-supervisions/Internships</h1>
+	<hr>
 	<!-- Clara Hernandez Canas-->
 	<div class="row">
 		<div class="column">
