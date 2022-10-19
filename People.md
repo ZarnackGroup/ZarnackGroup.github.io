@@ -91,7 +91,7 @@ title: Who is the Zarnack Group?
 			<p>brezski(at)<wbr>em.uni-frankfurt.de</p>
 		</div>
 		<div class="column">
-			<img class="img_team" src="/assets/images/people/dummy.png" alt="Andre Brezski">
+			<img class="img_team" src="/assets/images/people/andre_brezski.png" alt="Andre Brezski">
 		</div>
 	</div>
 	<p> </p>
