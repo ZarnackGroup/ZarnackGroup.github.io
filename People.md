@@ -150,7 +150,7 @@ title: Who is the Zarnack Group?
 			<h3>Annika Ladwig</h3>
 		</div>
 		<div class="column">
-			<img src="/assets/images/people/dummy.png" alt="Annika Ladwig">
+			<img src="/assets/images/people/annika_ladwig.png" alt="Annika Ladwig">
 		</div>
 	</div>
 	<p> </p>
