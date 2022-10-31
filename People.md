@@ -161,7 +161,7 @@ title: Who is the Zarnack Group?
 			<h3>Cem Bakisoglu</h3>
 		</div>
 		<div class="column">
-			<img src="/assets/images/people/dummy.png" alt="Cem Bakisoglu"> 
+			<img src="/assets/images/people/cem_bakisoglu.png" alt="Cem Bakisoglu"> 
 		</div>
 	</div>
 	<p> </p>
