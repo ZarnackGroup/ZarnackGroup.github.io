@@ -172,7 +172,7 @@ title: Who is the Zarnack Group?
 			<h3>Jonas Busam</h3>
 		</div>
 		<div class="column">
-			<img src="/assets/images/people/dummy.png" alt="Jonas Busam"> 
+			<img src="/assets/images/people/jonas_busam.png" alt="Jonas Busam"> 
 		</div>
 	</div>
 	<p> </p>
