@@ -30,8 +30,11 @@ title: Who is the Zarnack Group?
 </style>
 
 <!-- Group picture -->
-<div class="row">
-	 <img src="/assets/images/people/zarnack_group.png" alt="Zarnack Group" class="center"> 
+<div class="container">  
+	<div class="row">
+		<img src="/assets/images/people/zarnack_group.png" alt="Zarnack Group" class="center"> 
+		<p>Christmas dinner 2022</p>
+	</div>
 </div>
 
 <!-- Group lead -->
