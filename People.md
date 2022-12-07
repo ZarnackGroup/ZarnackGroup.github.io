@@ -36,7 +36,7 @@ title: Who is the Zarnack Group?
 		<img src="/assets/images/people/zarnack_group.jpg" alt="Zarnack Group" class="center"> 
 	</div>
 	<div class="row">
-		<p style="text-align:center">Christmas dinner 2022</p>
+		<p><center>Christmas dinner 2022</center></p>
 	</div>
 </div>
 
