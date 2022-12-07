@@ -19,6 +19,7 @@ title: Who is the Zarnack Group?
 	margin-right: auto;
 	width: 300px;
 	height: auto;
+	border-radius: 10%;
 	}
 	
 	img {
@@ -30,7 +31,7 @@ title: Who is the Zarnack Group?
 
 <!-- Group picture -->
 <div class="row">
-	 <img src="/assets/images/people/dummy.png" alt="Zarnack Group" class="center"> 
+	 <img src="/assets/images/people/zarnack_group.png" alt="Zarnack Group" class="center"> 
 </div>
 
 <!-- Group lead -->
