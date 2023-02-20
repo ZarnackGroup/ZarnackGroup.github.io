@@ -1,0 +1,31 @@
+---
+layout: home
+author_profile: false
+title: Publications
+---
+
+```{r}
+library(rentrez)
+
+# Search PubMed for "Kathi Zarnack" as author
+search_term <- "Zarnack K[Author]"
+
+# Retrieve a list of PubMed IDs for matching publications
+search_results <- entrez_search(db = "pubmed", term = search_term)
+
+# Extract the PubMed IDs from the search results
+pmids <- search_results$ids
+
+# Retrieve publication information for each matching publication
+pub_info <- entrez_summary(db = "pubmed", id = pmids)
+
+# Extract relevant fields from the publication information
+pub_data <- data.frame(
+  Title = pub_info$Title,
+  Journal = pub_info$Source,
+  Year = as.numeric(substr(pub_info$PubDate, 1, 4))
+)
+
+# Print the publication data
+pub_data
+```
