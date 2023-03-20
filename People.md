@@ -35,9 +35,6 @@ title: Who is the Zarnack Group?
 	<div class="row">
 		<img src="/assets/images/people/zarnack_group.jpg" alt="Zarnack Group" class="center"> 
 	</div>
-	<div class="row">
-		<p><center>Christmas dinner 2022</center></p>
-	</div>
 </div>
 
 <!-- Group lead -->
@@ -129,19 +126,31 @@ title: Who is the Zarnack Group?
 		</div>
 	</div>
 	<p> </p>
+	
+	<!-- Dominik Stroh -->
+	<div class="row">
+		<div class="column">
+			<h3>Dominik Stroh</h3>
+			<p>stroh(at)<wbr>stud.uni-frankfurt.de</p>
+		</div>
+		<div class="column">
+			<img src="/assets/images/people/dominik_stroh.png" alt="Dominik Stroh"> 
+		</div>
+	</div>
+	<p> </p>
 </div>
 
 <!-- Master students -->
 <div class="container">
 	<h1>Master students</h1>
 	<hr>
-	<!-- Dominik Stroh -->
+	<!-- Martin Brand -->
 	<div class="row">
 		<div class="column">
-			<h3>Dominik Stroh</h3>
+			<h3>Martin Brand</h3>
 		</div>
 		<div class="column">
-			<img src="/assets/images/people/dominik_stroh.png" alt="Dominik Stroh">
+			<img src="/assets/images/people/martin_brand.png" alt="Martin Brand">
 		</div>
 	</div>
 	<p> </p>
