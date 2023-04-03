@@ -131,7 +131,7 @@ title: Who is the Zarnack Group?
 	<div class="row">
 		<div class="column">
 			<h3>Dominik Stroh</h3>
-			<p>stroh(at)<wbr>stud.uni-frankfurt.de</p>
+			<p>d.stroh(at)<wbr>em.uni-frankfurt.de</p>
 		</div>
 		<div class="column">
 			<img src="/assets/images/people/dominik_stroh.png" alt="Dominik Stroh"> 
